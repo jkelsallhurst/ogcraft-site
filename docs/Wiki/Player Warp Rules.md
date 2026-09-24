@@ -1,6 +1,6 @@
 # Player Warp Rules
  
-**Effective Date:** 1st October 2026
+**Effective Date:** 3rd October 2026
  
 Players are entitled to create their own Player Warps ("Pwarps") provided they comply with the rules below.
  
@@ -73,7 +73,7 @@ Any hazards that may result in player death, including but not limited to:
 - Redstone games
 - Potion effects
  
-must be clearly signposted with appropriate warnings.
+Must be clearly signposted with appropriate warnings.
  
 ### Duplicate Pwarps
  
@@ -277,10 +277,5 @@ Where applicable, event rules and instructions should be clearly displayed.
 Broken, inaccessible, abandoned, or permanently inactive Event Pwarps may be removed during review.
  
 ---
- 
+
 **Failure to comply with these rules may result in Pwarp removal. Any Pwarp removed for rule violations will NOT be refunded.**
-This area should display:
- 
-- Town information
-- Resident list
-- Any relevant town rules
